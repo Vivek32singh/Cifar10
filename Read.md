@@ -1,0 +1,1 @@
+### Applied ResNet9 Architecture to predict the class of data given###
